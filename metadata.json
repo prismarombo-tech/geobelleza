@@ -1,0 +1,8 @@
+
+{
+  "name": "Geoverse",
+  "description": "Exploración de la anatomía humana a través de la geometría sagrada. Diseñado por Diana, Nestor, Saida y Daniel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
